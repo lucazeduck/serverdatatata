@@ -1,0 +1,98 @@
+{
+  "menu-version": "4.5.0",
+  "min-version": "4.5.0",
+  "min-console-version": "2.8.0",
+  "discord-invite": "https://discord.gg/seralyth",
+  "motd": "You are using build {0}. This menu was created by Seralyth Software. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>Seralyth is not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.\n\nCurrent status: <b>Fully functional, undetected</b>\nMade with love by the community.\n\n<alpha=128>{2} {0} {3}<alpha=255>",
+  "admins": [
+    {
+      "name": "kingofnetflix",
+      "user-id": "E0EA3914AFC5E1E5",
+      "discord-id": "1479765842131681350"
+    },
+    {
+      "name": "Twig",
+      "user-id": "F11FF07F6E028B08",
+      "discord-id": "738573735895892050"
+    },
+    {
+      "name": "ZlothY",
+      "user-id": "FF912EF4590C7E35",
+      "discord-id": "832552302027079710"
+    },
+    {
+      "name": "onynring",
+      "user-id": "BC47DD4A488A0302",
+      "discord-id": "311503550951981056"
+    },
+    {
+      "name": "test",
+      "user-id": "EF42CBBAEBE42EA",
+      "discord-id": "1244744453990776932"
+    },
+    {
+      "name": "industry",
+      "user-id": "4605B2A0900028E1",
+      "discord-id": "1340165954981724255"
+    },
+    {
+      "name": "Baja",
+      "user-id": "F0367A25D26F4E95",
+      "discord-id": "1493667387868839997"
+    },
+    {
+      "name": "NovaIsCool",
+      "user-id": "34E8C4F92B2D79BD",
+      "discord-id": "1245524855147859993"
+    },
+    {
+      "name": "smilk",
+      "user-id": "6D98F8C3F4C218C8",
+      "discord-id": "1122611609408381053"
+    },
+    {
+      "name": "Cha",
+      "user-id": "E561B7176AAC1245",
+      "discord-id": "1353949181571633173"
+    }
+  ],
+  "unmigrated-admins": [
+    {
+      "name": "multifactor",
+      "user-id": "3EA37234BDD23625"
+    },
+    {
+      "name": "industry",
+      "user-id": "4605B2A0900028E1"
+    },
+    {
+      "name": "libyyyreal",
+      "user-id": "2C7484982273DD6C"
+    },
+    {
+      "name": "lerpyyy",
+      "user-id": "EBF4D7AE3CD9E4E6"
+    },
+    {
+      "name": "exops",
+      "user-id": "2AC0E7FD1BE08E9F"
+    },
+    {
+      "name": "sub2shibagt",
+      "user-id": "F3E8A56B1E35DACD"
+    }
+  ],
+  "super-admins": [
+    "kingofnetflix",
+    "multifactor",
+    "Twig"
+  ],
+  "april_fools": {
+    "sex": false
+  },
+  "patreon": [],
+  "detected-mods": ["Freeze Server", "Crash Server", "Lag Server", "Mute All on Freeze", "Kick Gun", "Kick All"],
+  "poll": "Do the kick mods work for you?",
+  "option-a": "Yes",
+  "option-b": "No"
+}
