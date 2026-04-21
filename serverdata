@@ -78,14 +78,12 @@
       "user-id": ""
     },
     {
-      "name": "darwin",
+      "name": "",
       "user-id": ""
     }
   ],
   "super-admins": [
     "darwin",
-    "multifactor",
-    "Twig"
   ],
   "april_fools": {
     "sex": false
