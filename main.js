@@ -1,5 +1,4 @@
-if (req.method === 'GET' && (path === '/serverdata' || path === '/serverdataendpoint')) {
-      const response = {
+         const response = {
         "menu-version": "8.3.3",
         "min-version": "8.3.2",
         "min-console-version": "0.0.0",
